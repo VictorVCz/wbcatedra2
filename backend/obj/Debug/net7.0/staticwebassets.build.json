@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "WR69BQFdwOjqFV3L3DGFA34G699vduLcsodVfUY5TNU=",
+  "Source": "backend",
+  "BasePath": "_content/backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend/wwwroot",
+      "Source": "backend",
+      "ContentRoot": "/home/victor/catedra2/catedra2wm/wbcatedra2/backend/wwwroot/",
+      "BasePath": "_content/backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/victor/catedra2/catedra2wm/wbcatedra2/backend/wwwroot/images/products.jpeg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/victor/catedra2/catedra2wm/wbcatedra2/backend/wwwroot/",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/products.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/products.jpeg"
+    }
+  ]
+}
